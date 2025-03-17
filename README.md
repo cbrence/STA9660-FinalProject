@@ -4,7 +4,7 @@
 
 [2.	Data Exploration, Cleaning and Visualization](#2dataexplorationcleaningandvisualization2)
 [2.1 Data Cleaning](#21datacleaning2)
-[2.2 Data Visualization and Exploration	3](#22datavisualizationandexploration3)
+[2.2 Data Visualization and Exploration](#22datavisualizationandexploration3)
 
 [3.	Overview of Models](#3overviewofmodels4)
     [3.1 Logistic Regression](#31logisticregression4)
