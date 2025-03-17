@@ -39,7 +39,7 @@ In the paper we reference, the authors achieved an AUC of 0.652 using an elastic
 
 # Data Exploration, Cleaning and Visualization
 
-## **2.1 Data Cleaning****
+## **2.1 Data Cleaning**
 
 In the data cleaning stage, we first dropped values unrelated to our project, then we imputed missing values, and finally we created labels for each observation. Column Cohort was dropped because it is a tag column used by data collectors themselves. We also removed the observations where the target variable M6_Rem, Y1_Rem or Y1_Rem_6 is NaN.
 
